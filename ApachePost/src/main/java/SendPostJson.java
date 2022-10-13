@@ -7,7 +7,7 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.json.JSONObject;
 
 
-public class SendRRC {
+public class SendPostJson {
     public static void main(String[] args) throws Exception {
 
         String num = "10";
